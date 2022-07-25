@@ -1,2 +1,11 @@
-# CNN_review
-CNN 논문 리뷰 저장소
+# Papaer_review
+### CNN
+* VGG16
+* GoogleNet
+* ResNet
+### Semantic Segmentation
+* SegNet
+* Unet
+### Object Detection
+* R-CNN
+* 
